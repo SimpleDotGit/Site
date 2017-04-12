@@ -1,0 +1,18 @@
+
+@import url(http://fonts.googleapis.com/css?family=Gilda+Display); 
+
+html { 
+    background-color:#E8E8EE; 
+    color: white; 
+    overflow: hidden; 
+    height: 100%; 
+    }
+
+a {
+    text-shadow: 6px 5px 3px;
+    color: #535460; 
+    font-size:20px;
+    text-decoration: none;
+    }
+    
+    
